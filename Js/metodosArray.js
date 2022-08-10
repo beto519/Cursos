@@ -6,11 +6,12 @@ const meses =['Enero','Febrero', 'Marzo','Abril','Mayo'];
 /**
  * Agrega los datos al final del arreglo
  */
-numeros.push(60);
+//numeros.push(60);
 /**
  * Agrega siempre al principio del arreglo
  */
-numeros.unshift(-10,-20);
+numeros.unshift(-10,-20,30);
+console.log(numeros);
 
 /**
  * Elimina el ultimo elemento del arreglo
