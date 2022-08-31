@@ -40,3 +40,8 @@
 *Para correr una aplicacion desde terminal es necesario usar
 * dotnet run
 **/
+
+/**
+*Controladores
+*Son las clases, aquellas que van a recibir las peticiones http del usuario y dara una respuesta.
+**/
